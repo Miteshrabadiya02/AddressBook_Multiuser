@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MultiUserAddressBook
+build_property.RootNamespace = MultiUserAddressBook
+build_property.ProjectDir = /Users/miteshrabadiya/Desktop/M EE T/vs code/C#dotNet/MultiUserAddressBook/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/miteshrabadiya/Desktop/M EE T/vs code/C#dotNet/MultiUserAddressBook
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/CON_Contact/Views/Home/CON_ContactAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ09OX0NvbnRhY3QvVmlld3MvSG9tZS9DT05fQ29udGFjdEFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/CON_Contact/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ09OX0NvbnRhY3QvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/CON_Contact/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ09OX0NvbnRhY3QvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/CON_ContactCategory/Views/Home/CON_ContactCategoryAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ09OX0NvbnRhY3RDYXRlZ29yeS9WaWV3cy9Ib21lL0NPTl9Db250YWN0Q2F0ZWdvcnlBZGRFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/CON_ContactCategory/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ09OX0NvbnRhY3RDYXRlZ29yeS9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/CON_ContactCategory/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ09OX0NvbnRhY3RDYXRlZ29yeS9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_City/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX0NpdHkvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_City/Views/Home/LOC_CityAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX0NpdHkvVmlld3MvSG9tZS9MT0NfQ2l0eUFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_City/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX0NpdHkvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_Country/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX0NvdW50cnkvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_Country/Views/Home/LOC_CountryAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX0NvdW50cnkvVmlld3MvSG9tZS9MT0NfQ291bnRyeUFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_Country/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX0NvdW50cnkvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_State/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX1N0YXRlL1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_State/Views/Home/LOC_StateAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX1N0YXRlL1ZpZXdzL0hvbWUvTE9DX1N0YXRlQWRkRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Areas/LOC_State/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTE9DX1N0YXRlL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/SEC_User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU0VDX1VzZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/Shared/_Layout_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRfTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miteshrabadiya/Desktop/M EE T/vs code/C\#dotNet/MultiUserAddressBook/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h435nc9ty5
